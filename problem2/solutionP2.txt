@@ -1,0 +1,21 @@
+		   *** Problem 2 ***
+(a) The entry (400,400) of the global stiffness matrix is
+    K(400,400) = 4.6750e+00
+
+    Hint1. The value of K(300,300) = 4.072380e+00
+
+(b) The minimum of the values of Q on the left vertical boundary
+    is -2.0179e+01
+
+    Hint2. The maximum in absolute value of Q over all the nodes
+    is 2.1674e+01
+
+(c) Now consider that the circle exterior boundary is no more
+   isolated, but there is a constant flow per unit length qn = 
+   -0.40 trought that boundary
+
+   Then, the minimum of the values of Q on the left vertical
+   boundary is: -1.8773e+01
+
+   Hint3. The maximum in absolute value of Q over all the nodes
+   is 2.0269e+01

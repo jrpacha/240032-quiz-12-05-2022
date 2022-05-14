@@ -1,0 +1,32 @@
+		    ** Problem 1 **
+Length of the bars at the basis and at the top:
+       l = 2.755000e+03 mm
+Length of the vertical bars:
+       h = 3.414000e+03 mm
+Section area of the bars:
+       A = 2.500000e+02 mm^2
+Young modulus:
+       Y = 1.500000e+05 N/mm^2
+Force at node 5:
+       F = [3.000000e+04, 3.000000e+04, -3.000000e+04]
+
+(a) The value of the component (4,2) of the local stiffness
+    matrix for the 3rd element, K3, is K3(4,2) = -5.8940e+03
+
+    Hint1. The value of K3(2,2) = 1.020871e+04
+
+(b) The absolute value of the y-displacement of the node 5
+    is: |UY(5)| = 4.9458e+00
+
+    Hint2. The absolute value of the z-displacement of the
+    node 5 is |UZ(5)| = 2.7312e+00
+
+(c) Now, except the three bars at the bassis, the section
+    area of all the others is changed to A = 150.0 mm^2.
+    Then:
+
+    The absolute value of the y-displacement of the node 5
+    is |UY(5)| = 8.2430e+00
+
+    Hint3. The absolute value of the x-displacement of the
+    node 5 is |UX(5)| = 5.7941e+00
