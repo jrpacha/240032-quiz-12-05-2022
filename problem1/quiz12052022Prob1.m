@@ -155,7 +155,7 @@ fprintf(fOut,...
 %--------------------------------------------------------------------------
 
 %%% Part (C)
-% Execp the three bars at the basis, the section area of all the other 
+% Exept the three bars at the basis, the section area of all the other 
 % is changed to 150mm^2
 
 A = newArea*ones(1,numElem);
